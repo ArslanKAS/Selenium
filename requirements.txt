@@ -1,0 +1,7 @@
+numpy
+pandas
+selenium
+seaborn
+matplotlib
+pywin32
+webdriver_manager
